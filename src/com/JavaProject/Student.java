@@ -8,6 +8,7 @@ public class Student
 	if (a.contains("H"))
 		return true;
 	else 
+		System.out.print("Changes made ");
 		return false;
 	}
 }
